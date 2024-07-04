@@ -1,0 +1,44 @@
+[
+    {
+      "id": "DAV",
+      "title": "Vietnam details",
+      "title1": "Vietnam At a Glance",
+      "price": "$250.00",
+      "duration": {
+        "days": 10,
+        "nights": 11
+      },
+      "location": "Madrid, Spain",
+      "groupSize": "50+ People",
+      "tourType": "Group Tour",
+      "description": "<p>This is a description of the tour.</p>",
+      "image": "assets/img/tourdetails/VietnamN1.jpg",
+      "image1": "assets/img/tourdetails/VietnamN5.jpg",
+      "tourpic1":"assets/img/trip/tour_11.jpg",
+      "tourpic2":"assets/img/trip/tour_12.jpg",
+      "tourpic3":"assets/img/trip/tour_13.jpg",
+      "tourpic4":"assets/img/trip/tour_14.jpg"
+  
+    },
+    {
+      "id": "DAT",
+      "title": "Turkey details",
+      "title1": "Turkey At a Glance",
+      "price": "$250.00",
+      "duration": {
+        "days": 10,
+        "nights": 11
+      },
+      "location": "Madrid, Spain",
+      "groupSize": "50+ People",
+      "tourType": "Group Tour",
+      "description": "<p>This is a description of the tour.</p>",
+      "image": "assets/img/tourdetails/VietnamN5.jpg",
+      "image1": "assets/img/tourdetails/VietnamN1.jpg",
+      "tourpic1":"assets/img/trip/tour_15.jpg",
+      "tourpic2":"assets/img/trip/tour_16.jpg",
+      "tourpic3":"assets/img/trip/tour_17.jpg",
+      "tourpic4":"https://i.pinimg.com/736x/c8/d3/08/c8d308538241246b0f06f5c9058f779a.jpg"
+  
+    }
+  ]

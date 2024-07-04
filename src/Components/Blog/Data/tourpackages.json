@@ -1,0 +1,108 @@
+[
+    {
+      "id": "DAV",
+      "image": "assets/img/trip/tour_11.jpg",
+      "title": "Highlight of East Vietnam",
+      "days": "10",
+      "groupSize": "50+",
+      "locations": ["Hue Imperial City, Hoi An Town, Da Nang City, Ba Na Hills"],
+      "description": "In 5 days, You can discover the Central of Vietnam include Hue,Hoi An and Da Nang.",
+      "tourType": "Economy",
+      "targetAudience": ["Single"],
+      "action": "Book now"
+    },
+    {
+      "id": "DAV",
+      "image": "assets/img/trip/tour_12.jpg",
+      "title": "Best of South Vietnam 5 days",
+      "days": "12",
+      "groupSize": "70+",
+      "locations": ["Hanoi, Ninh Binh (Hoa Lu, Tam Coc, Mua Cave), Ha Long Bay"],
+      "description": "In 5 days, you can discover all the most beautiful places in the North of Vietnam.",
+      "tourType": "Economy",
+      "targetAudience": ["Couple"],
+      "action": "Book now"
+    },
+    {
+      "id": "DAV",
+      "image": "assets/img/trip/tour_13.jpg",
+      "title": "Highlight of West Vietnam",
+      "days": "07",
+      "groupSize": "52+",
+      "locations": ["Ninh Binh, Ha Long Bay, HCMC, Cu Chi Tunnel, Mekong Delta"],
+      "description": "In 7 days, you can discover the distinctive features and differences in culture heritages.",
+      "tourType": "Economy",
+      "targetAudience": ["Couple Honeymoon"],
+      "action": "Book now"
+    },
+    {
+      "id": "DAV",
+      "image": "assets/img/trip/tour_14.jpg",
+      "title": "Best of North Vietnam 7 days",
+      "days": "13",
+      "groupSize": "100+",
+      "locations": [
+        "Hanoi, Ninh Binh(Hoa Lu, Tam Coc, Mua cave), Ha Long Bay, Sapa"
+      ],
+      "description": "In 7 days, you can discover all the most beautiful places in the North of Vietnam landscapes.",
+      "tourType": "Economy",
+      "targetAudience": ["Family"],
+      "action": "Book now"
+    },
+    {
+      "id": "DAT",
+      "image": "assets/img/trip/tour_17.jpg",
+      "title": "Best of North Turkey 7 days",
+      "days": "13",
+      "groupSize": "100+",
+      "locations": [
+        "Hanoi, Ninh Binh(Hoa Lu, Tam Coc, Mua cave), Ha Long Bay, Sapa"
+      ],
+      "description": "In 7 days, you can discover all the most beautiful places in the North of Vietnam landscapes.",
+      "tourType": "Economy",
+      "targetAudience": ["Single"],
+      "action": "Book now"
+    },
+    {
+      "id": "DAT",
+      "image": "assets/img/trip/tour_15.jpg",
+      "title": "Best of North Turkey 7 days",
+      "days": "13",
+      "groupSize": "100+",
+      "locations": [
+        "Hanoi, Ninh Binh(Hoa Lu, Tam Coc, Mua cave), Ha Long Bay, Sapa"
+      ],
+      "description": "In 7 days, you can discover all the most beautiful places in the North of Vietnam landscapes.",
+      "tourType": "Economy",
+      "targetAudience": ["Couple"],
+      "action": "Book now"
+    },
+    {
+      "id": "DAT",
+      "image": "assets/img/trip/tour_16.jpg",
+      "title": "Best of North Turkey 7 days",
+      "days": "13",
+      "groupSize": "100+",
+      "locations": [
+        "Hanoi, Ninh Binh(Hoa Lu, Tam Coc, Mua cave), Ha Long Bay, Sapa"
+      ],
+      "description": "In 7 days, you can discover all the most beautiful places in the North of Vietnam landscapes.",
+      "tourType": "Economy",
+      "targetAudience": ["Couple Honeymoon"],
+      "action": "Book now"
+    },
+    {
+      "id": "DAT",
+      "image": "https://i.pinimg.com/736x/c8/d3/08/c8d308538241246b0f06f5c9058f779a.jpg",
+      "title": "Best of North Turkey 7 days",
+      "days": "13",
+      "groupSize": "100+",
+      "locations": [
+        "Hanoi, Ninh Binh(Hoa Lu, Tam Coc, Mua cave), Ha Long Bay, Sapa"
+      ],
+      "description": "In 7 days, you can discover all the most beautiful places in the North of Vietnam landscapes.",
+      "tourType": "Economy",
+      "targetAudience": ["Family"],
+      "action": "Book now"
+    }
+  ]
